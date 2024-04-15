@@ -3,12 +3,12 @@ body {
     margin: 0;
     color: #3e363f;
     padding-top: 70px;
-    background:rgb(250, 246, 246);
+    background:whitesmoke;
     scroll-behavior: smooth;
   }
   header {
-    background-color: #2a4254;
-    color:rgb(197, 132, 12);
+    background-color: #c6cfd5;
+    color:rgb(57, 65, 73);
     text-align: center;
     padding: 20px;
     margin-bottom: 20px;
@@ -25,17 +25,17 @@ h2 {
     top: 0;
     left: 0;
     width: 100%;
-    background-color:rgb(250, 246, 246);
+    background-color:rgb(43, 55, 78);
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.8);
   }
   .menu-item {
     text-decoration: none;
-    color: #333;
+    color: whitesmoke;
     padding: 10px;
     display: inline-block;
   }
   .menu-item:hover {
-    background-color: #ddd;
+    background-color: #5e5959;
     transition: all 0.4s ease-in-out;
   }
   main {
@@ -50,7 +50,7 @@ section {
 }
 
 .Subtitulo {
-color: rgb(197, 132, 12);
+color: #333;
 }
 #acerca-de-mi p {
   text-align: justify;
